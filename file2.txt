@@ -1,1 +1,2 @@
 ini untuk belajar git remote
+semoga bisa
